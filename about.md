@@ -1,13 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Hi, there! I'm Gibraan Rahman, but everyone calls me Gibs. I'm a second-year bioinformatics PhD student in the [Knight Lab](https://knightlab.ucsd.edu/) at UCSD. My primary research interests are leveraging computational methods to uncover the relationships between cancer and the microbiome. In my spare time, I like to collect vinyl, sing karaoke, and watch basketball (go Rockets!).
