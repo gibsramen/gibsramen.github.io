@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            gibs
-tagline:          'Bioinformatics PhD Student'
-description:      'Computational cancer microbiome.'
+tagline:          'Personal Website'
+description:      "Computers'n'Cancer"
 url:              https://gibsramen.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
