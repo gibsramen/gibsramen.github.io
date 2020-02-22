@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Qarcoal
+date: 2020-01-30
 categories:
   - Research
 tags:
