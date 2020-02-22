@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: page
 title: Qarcoal
 categories:
   - Research
+tags:
+  - python
+  - code
 ---
 
 One of my friends in the lab, [Marcus Fedarko](https://twitter.com/mwfedarko), developed a really cool tool called [Qurro](https://github.com/biocore/qurro). Qurro is really useful for visualizing feature rankings from tools like [songbird](https://github.com/biocore/songbird) or [DEICODE](https://github.com/biocore/DEICODE). Basically, you inpupt the feature rankings and can then visualize them in the context of your metadata.
