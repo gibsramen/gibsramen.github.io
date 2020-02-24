@@ -1,6 +1,8 @@
 ---
 layout: post
 title: First post!
+category:
+  - Blog
 excerpt_separator:  <!--more-->
 ---
 

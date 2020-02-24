@@ -34,11 +34,3 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 permalink: /:categories/:title
-
-defaults:
-  -
-    scope:
-      path: "_posts"
-      type: "posts"
-    values: 
-      category: "blog"  
