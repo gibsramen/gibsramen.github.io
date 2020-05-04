@@ -8,9 +8,7 @@ Here are the papers to which I've contributed.
 
 ## 2020
 
-## 2019
-
-Visualizing ’omic feature rankings and log-ratios using Qurro (*bioRxiv* 2019) doi: <https://doi.org/10.1101/2019.12.17.880047>
+Visualizing ’omic feature rankings and log-ratios using Qurro (*NAR Genomics and Bioinformatics* 2020) doi: <https://doi.org/10.1093/nargab/lqaa023>
 
 Marcus W. Fedarko, Cameron Martino, James T. Morton, Antonio González, **Gibraan Rahman**, Clarisse A. Marotz, Jeremiah J. Minich, Eric E.Allen, Rob Knight
 
