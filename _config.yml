@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            gibs
 tagline:          'Personal Website'
-description:      "Computers 'n' Cancer"
+description:      "Aspiring Data Nerd"
 url:              https://gibsramen.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
