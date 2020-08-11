@@ -12,11 +12,13 @@ tags:
   - visualization
 ---
 
+EDIT (06/01/2020): Fixed typo where I wrote "taxon" instead of "cluster."
+
 One thing I've found myself doing recently is working with cluster of features (microbes, metabolites, etc.). When performing unsupervised clustering on biological features, it is important to ensure that the clusters you find have some sort of biological meaning. Otherwise you've just segmented features into arbitrary spaces.
 
 What I've taken to doing is plotting the taxonomic composition of each of these clusters at some level (usually Phylum). By doing this, I can get a quick overview of how these clusters look at the specified taxonomic level. I can then see, for example, if any of the clusters have a higher proportion of some specific Phylum. This can serve as a (very!) preliminary indication that your clustering may be extracting some interesting biological meaning.
 
-For this example, I am using the moving pictures dataset from the Qiime2 tutorial. Additionally, I am randomly assigning each feature to a taxon rather than performing an actual clustering. This is a lot easier, as the purpose of this snippet is the visualization rather than the clustering itself.
+For this example, I am using the moving pictures dataset from the Qiime2 tutorial. Additionally, I am randomly assigning each feature to a cluster rather than performing an actual clustering. This is a lot easier, as the purpose of this snippet is the visualization rather than the clustering itself.
 
 ![phyla_composition_plot.png](../assets/imgs/phyla_composition_plot.png)
 
