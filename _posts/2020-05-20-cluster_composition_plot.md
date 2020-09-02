@@ -14,6 +14,8 @@ tags:
 
 EDIT (06/01/2020): Fixed typo where I wrote "taxon" instead of "cluster."
 
+EDIT (09/02/2020): Fixed bug where `tax` variable was being used twice.
+
 One thing I've found myself doing recently is working with cluster of features (microbes, metabolites, etc.). When performing unsupervised clustering on biological features, it is important to ensure that the clusters you find have some sort of biological meaning. Otherwise you've just segmented features into arbitrary spaces.
 
 What I've taken to doing is plotting the taxonomic composition of each of these clusters at some level (usually Phylum). By doing this, I can get a quick overview of how these clusters look at the specified taxonomic level. I can then see, for example, if any of the clusters have a higher proportion of some specific Phylum. This can serve as a (very!) preliminary indication that your clustering may be extracting some interesting biological meaning.
@@ -40,8 +42,8 @@ taxonomy_df = taxonomy.view(pd.DataFrame)
 # break each taxonomy assignment into constituent levels
 for tax in "kpcofgs":
     search_string = f"{tax}__([^;]*)?"
-    tax = taxonomy_df["Taxon"].str.extract(search_string)
-    taxonomy_df[f"{tax}__"] = tax
+    tax_str = taxonomy_df["Taxon"].str.extract(search_string)
+    taxonomy_df[f"{tax}__"] = tax_str
 
 taxonomy_df = taxonomy_df.replace("", np.nan)
 
