@@ -15,6 +15,8 @@ Recently a friend of mine asked if I had any experience importing an [`skbio.sta
 
 When you export an `skbio` ordination object, the text file contains entries for the eigenvalues, proportion explained, and sites (analogous to samples in what I do). Additionally, if the ordination is a biplot, it will contain entries for species as well (analogous to microbes in what I do). There are also spaces for "Biplot" and "Site constraints" which I'm not familiar with. These entries are basically stored in sub-TSVs so this snippet just takes each of these set of values and extracts them to their own data frame. Then I wrote a simple function to plot the samples as points and features as arrows. Of course, this can be snazzed up with fancy `ggplot2` accoutrements but for this demonstration I kept it relatively simple.
 
+![biplot_R](../assets/imgs/deicode_mp_biplot.png)
+
 ```R
 library(ggplot2)
 
