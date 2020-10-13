@@ -11,9 +11,11 @@ tags:
   - visualization
 ---
 
+EDIT (10/12/2020): Updated code to properly label y-axis as `PC2`.
+
 Recently a friend of mine asked if I had any experience importing an [`skbio.stats.ordination`](http://scikit-bio.org/docs/0.5.2/generated/skbio.stats.ordination.html) object in R. I hadn't, unfortunately, as I usually work with QIIME2 & Python in tandem. I do expect that I'll be using R more often as my PhD progresses so I decided to take a stab at a very simple way to extract and plot the data from this format.
 
-When you export an `skbio` ordination object, the text file contains entries for the eigenvalues, proportion explained, and sites (analogous to samples in what I do). Additionally, if the ordination is a biplot, it will contain entries for species as well (analogous to microbes in what I do). There are also spaces for "Biplot" and "Site constraints" which I'm not familiar with. These entries are basically stored in sub-TSVs so this snippet just takes each of these set of values and extracts them to their own data frame. Then I wrote a simple function to plot the samples as points and features as arrows. Of course, this can be snazzed up with fancy `ggplot2` accoutrements but for this demonstration I kept it relatively simple.
+When you export an `skbio` ordination object, the text file contains entries for the eigenvalues, proportion explained, and sites (analogous to samples in what I do). Additionally, if the ordination is a biplot, it will contain entries for species as well (analogous to microbes in what I do). There are also spaces for "Biplot" and "Site constraints" which I'm not familiar with. These entries are basically stored in sub-TSVs so this snippet just takes each of these set of values and extracts them to their own data frame. Then I wrote some rudimentary code to plot the samples as points and features as arrows. Of course, this can be snazzed up with fancy `ggplot2` accoutrements but for this demonstration I kept it relatively simple.
 
 ![biplot_R](../assets/imgs/deicode_mp_biplot.png)
 
@@ -79,7 +81,7 @@ ggplot(sites_coords, aes(x = X1, y = X2)) +
     arrow = arrow(length=unit(0.3, "cm"))
   ) +
   xlab("PC1") +
-  ylab("PC1") +
+  ylab("PC2") +
   ggtitle("DEICODE Moving Pictures Biplot")
 
 ggsave("deicode_mp_biplot.png")
