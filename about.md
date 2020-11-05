@@ -6,6 +6,8 @@ sidebar_link: true
 
 Hi, there! I'm Gibraan Rahman, but everyone calls me Gibs. I'm a second-year bioinformatics PhD student in the [Knight Lab](https://knightlab.ucsd.edu/) at UCSD. My primary research interest is computational microbiology - focusing on cancer-microbiome interactions and statistical methods. In my spare time, I like to collect vinyl, sing karaoke, and watch basketball (go Rockets!).
 
+(†) denotes entry held online due to COVID-19
+
 ## Education
 
 ### Bioinformatics & Systems Biology, PhD
@@ -22,11 +24,9 @@ University of Texas at Austin (August 2014 - May 2018)
 
 ## Teaching
 
-### Graduate Teaching Assistant - Network Biology and Biomedicine
+### Graduate Teaching Assistant - Network Biology and Biomedicine<sup>†</sup>
 
 University of California, San Diego (March 2020 - June 2020)
-
-**Due to COVID-19 this class was held entirely online through Zoom**
 
 * Assisted with planning and organizing lectures
 * Established infrastructure for remote teaching, distribution of materials, & grading
@@ -35,13 +35,11 @@ University of California, San Diego (March 2020 - June 2020)
     * Integrated published datasets into computational problems
 * Held virtual office hours for students to clarify material and receive assistance
 
-### "Software Engineering on a Team" Workshop Co-Host
+### "Software Engineering on a Team" Workshop Co-Host<sup>†</sup>
 
 Bioinformatics & Systems Biology Incoming Student Bootcamp
 
 University of California, San Diego (September 2020)
-
-**Due to COVID-19 this workshop was held entirely online through Zoom**
 
 * Presented slide deck of best practices for collaborative software development
     * Unit testing
@@ -58,7 +56,8 @@ University of California, San Diego (September 2020)
 
 * Python
 * R
-* git
+* Git/GitHub
+* Continuous integration
 * Linux/UNIX
 * Data visualization
 * Data analysis
