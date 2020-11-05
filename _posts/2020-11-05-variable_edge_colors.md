@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Variable Edge Colors in Seaborn
+title: Variable edge colors in seaborn
 date: 2020-11-05
 categories:
   - Snippets
