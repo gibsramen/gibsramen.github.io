@@ -67,3 +67,5 @@ University of California, San Diego (September 2020)
 ---
 
 ## Presentations
+
+"Acceleration of Bioinformatics Workloads" - CRISP 2020<sup>†</sup>
