@@ -69,3 +69,11 @@ University of California, San Diego (September 2020)
 ## Presentations
 
 "Acceleration of Bioinformatics Workloads" - CRISP 2020<sup>†</sup>
+
+---
+
+## Open Source Contributions
+
+* [Qurro](https://github.com/biocore/qurro) (Core Developer)
+* [EMPress](https://github.com/biocore/empress) (Core Developer)
+* [UMAP](https://github.com/lmcinnes/umap) (Documentation)
