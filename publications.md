@@ -8,6 +8,14 @@ Here are the papers to which I've contributed.
 
 (*) denotes equal contribution
 
+### Microbial context predicts SARS-CoV-2 prevalence in patients and the hospital built environment
+
+*medRxiv* 2020
+
+doi: <https://doi.org/10.1101/2020.11.19.20234229>
+
+Clarisse Marotz\*, Pedro Belda-Ferre\*, Farhana Ali, Promi Das, Shi Huang, Kalen Cantrel, Lingjing Jiang, Cameron Martino, Rachel Diner, **Gibraan Rahman**, Daniel McDonald, George Armstrong, Sho Kodera, Sonya Donato, Gertrude Ecklu-Mensah, Neil Gottel, Mariana Salas Garcia, Leslie Chiang, Rodolfo A. Salido, Justin P. Shaffer, MacKenzie Bryant, Karenina Sanders, Greg Humphrey, Gail Ackermann, Niina Haiminen, Kristen L. Beck, Ho-Cheol Kim, Anna Paola Carrieri, Laxmi Parida, Yoshiki Vazquez-Baeza, Francesca J. Torriani, Rob Knight, Jack Gilbert, Daniel Sweeney, Sarah M. Allard
+
 ### EMPress enables tree-guided, interactive, and exploratory analyses of multi-omic datasets
 
 *bioRxiv* 2020
