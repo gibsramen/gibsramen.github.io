@@ -6,6 +6,8 @@ sidebar_link: true
 
 Hi, there! I'm Gibraan Rahman, but everyone calls me Gibs. I'm a second-year bioinformatics PhD student in the [Knight Lab](https://knightlab.ucsd.edu/) at UCSD. My primary research interest is computational microbiology - focusing on cancer-microbiome interactions and statistical methods. In my spare time, I like to collect vinyl, sing karaoke, and watch basketball (go Rockets!).
 
+Contact me at: gtrahman (at) gmail.com
+
 (†) denotes entry held online due to COVID-19
 
 ## Education
