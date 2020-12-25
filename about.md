@@ -6,7 +6,7 @@ sidebar_link: true
 
 Hi, there! I'm Gibraan Rahman, but everyone calls me Gibs. I'm a second-year bioinformatics PhD student in the [Knight Lab](https://knightlab.ucsd.edu/) at UCSD. My primary research interest is computational microbiology - focusing on cancer-microbiome interactions and statistical methods. In my spare time, I like to collect vinyl, sing karaoke, and watch basketball (go Rockets!).
 
-Contact me at: gtrahman (at) gmail.com
+Contact me at: gibsramen (at) gmail.com
 
 (†) denotes entry held online due to COVID-19
 
@@ -76,6 +76,6 @@ University of California, San Diego (September 2020)
 
 ## Open Source Contributions
 
-* [Qurro](https://github.com/biocore/qurro) (Core Developer)
-* [EMPress](https://github.com/biocore/empress) (Core Developer)
+* [Qurro](https://github.com/biocore/qurro) (Developer)
+* [EMPress](https://github.com/biocore/empress) (Developer)
 * [UMAP](https://github.com/lmcinnes/umap) (Documentation)
