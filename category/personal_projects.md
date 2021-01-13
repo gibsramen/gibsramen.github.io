@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Personal Projects
-permalink: /personal-projects/
+permalink: /personal_projects/
 ---
 
 Here are some of the things I've done outside of research:
