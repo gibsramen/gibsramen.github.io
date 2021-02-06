@@ -73,7 +73,7 @@ When writing code, I almost always make use of **Git** & **GitHub** for version 
 I integrate these tools with **unit testing** and **continuous integration** through Travis or GitHub actions.
 I am a strong proponent of test-driven development and robust software testing.
 
-In my spare time I have also started learning front-end technologies - primarily **JavaScript & TypeScript through React.js** with **HTML** and **CSS**.
+In my spare time I have also started learning front-end technologies - primarily **JavaScript** & **TypeScript** through **React.js** with **HTML** and **CSS**.
 I've also taken to learning about the **AWS** ecosystem of products with experience in **S3**, **Lambda**, **API Gateway**, **CloudFront**, & **EC2**.
 These skills are still a bit crude but I hope to keep working on them in my personal projects.
 
