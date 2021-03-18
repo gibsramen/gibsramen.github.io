@@ -18,11 +18,11 @@ Clarisse Marotz\*, Pedro Belda-Ferre\*, Farhana Ali, Promi Das, Shi Huang, Kalen
 
 ### EMPress enables tree-guided, interactive, and exploratory analyses of multi-omic datasets
 
-*bioRxiv* 2020
+*mSystems* 2021
 
-doi: <https://doi.org/10.1101/2020.10.06.327080>
+doi: <https://doi.org/10.1128/mSystems.01216-20>
 
-Kalen Cantrell\*, Marcus W. Fedarko\*, **Gibraan Rahman**, Daniel McDonald, Yimeng Yang, Thant Zaw, Antonio Gonzalez, Stefan Janssen, Mehrbod Estaki, Niina Haiminen, Kristen L. Beck, Qiyun Zhu, Erfan Sayyari, Jamie Morton, Anupriya Tripathi, Julia M. Gauglitz, Clarisse Marotz, Nathaniel L. Matteson, Cameron Martino, Jon G. Sanders, Anna Paola Carrieri, Se Jin Song, Austin D. Swafford, Pieter Dorrestein, Kristian G. Andersen, Laxmi Parida, Ho-Cheol Kim, Yoshiki Vázquez-Baeza, Rob Knight
+Kalen Cantrell\*, Marcus W. Fedarko\*, **Gibraan Rahman**, Daniel McDonald, Yimeng Yang, Thant Zaw, Antonio Gonzalez, Stefan Janssen, Mehrbod Estaki, Niina Haiminen, Kristen L. Beck, Qiyun Zhu, Erfan Sayyari, Jamie Morton, George Armstrong, Anupriya Tripathi, Julia M. Gauglitz, Clarisse Marotz, Nathaniel L. Matteson, Cameron Martino, Jon G. Sanders, Anna Paola Carrieri, Se Jin Song, Austin D. Swafford, Pieter Dorrestein, Kristian G. Andersen, Laxmi Parida, Ho-Cheol Kim, Yoshiki Vázquez-Baeza, Rob Knight
 
 ### Visualizing ’omic feature rankings and log-ratios using Qurro
 
