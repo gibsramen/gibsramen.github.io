@@ -29,16 +29,13 @@ University of Texas at Austin (August 2014 - May 2018)
 
 ## Teaching
 
-### Graduate Teaching Assistant - Network Biology and Biomedicine<sup>†</sup>
+### "Compositional microbiome analysis using QIIME2 and related tools" Instructor<sup>†</sup>
 
-University of California, San Diego (March 2020 - June 2020)
+Center for Microbiome Innovation/University of California, San Diego (March 2021)
 
-* Assisted with planning and organizing lectures
-* Established infrastructure for remote teaching, distribution of materials, & grading
-* Designed and graded homework assignments, exams, and final project
-    * Developed both mathematical & computational problems dealing with network biology
-    * Integrated published datasets into computational problems
-* Held virtual office hours for students to clarify material and receive assistance
+* Helped answer questions relating to compositional data analysis
+* Hosted workshop on hyperparameter tuning for differential abundance analysis using [Songbird](https://github.com/biocore/songbird) | [Repo](https://github.com/gibsramen/parameterizing-songbird-demo)
+* Hosted workshop introducing differential abundance analysis using [BIRDMAn](https://github.com/gibsramen/BIRDMAn) | [Repo](https://github.com/gibsramen/BIRDMAn-demo)
 
 ### "Software Engineering on a Team" Workshop Co-Host<sup>†</sup>
 
@@ -54,6 +51,17 @@ University of California, San Diego (September 2020)
 * Co-organized interactive demo of above skills involving student participation
     * Helped >20 students modify code and submit pull requests to GitHub
 * Answered student questions on collaborative code writing
+
+### Graduate Teaching Assistant - Network Biology and Biomedicine<sup>†</sup>
+
+University of California, San Diego (March 2020 - June 2020)
+
+* Assisted with planning and organizing lectures
+* Established infrastructure for remote teaching, distribution of materials, & grading
+* Designed and graded homework assignments, exams, and final project
+    * Developed both mathematical & computational problems dealing with network biology
+    * Integrated published datasets into computational problems
+* Held virtual office hours for students to clarify material and receive assistance
 
 ---
 
@@ -101,11 +109,12 @@ Gave presentation about computational improvements to metagenomics processing wo
 
 University of Texas at Austin (2014 - 2018)
 
-This scholarship is awarded to incoming first-years to the Cockrell School of Engineering at UT Austin and renewed each year contingent upon academic performance.
+This scholarship is awarded to incoming first-years to the Cockrell School of Engineering at UT Austin and renewed each year contingent upon exemplary academic performance.
 
 ---
 
 ## Open Source Contributions
 
+* [BIRDMAn](https://github.com/gibsramen/parameterizing-songbird-demo) (Lead Developer)
 * [Qurro](https://github.com/biocore/qurro) (Developer)
 * [EMPress](https://github.com/biocore/empress) (Developer)
