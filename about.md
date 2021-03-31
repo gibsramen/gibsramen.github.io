@@ -34,8 +34,8 @@ University of Texas at Austin (August 2014 - May 2018)
 Center for Microbiome Innovation/University of California, San Diego (March 2021)
 
 * Helped answer questions relating to compositional data analysis
-* Hosted workshop on hyperparameter tuning for differential abundance analysis using [Songbird](https://github.com/biocore/songbird) | [Repo](https://github.com/gibsramen/parameterizing-songbird-demo)
-* Hosted workshop introducing differential abundance analysis using [BIRDMAn](https://github.com/gibsramen/BIRDMAn) | [Repo](https://github.com/gibsramen/BIRDMAn-demo)
+* Hosted workshop on hyperparameter tuning for differential abundance analysis using [Songbird](https://github.com/biocore/songbird) - [Repo](https://github.com/gibsramen/parameterizing-songbird-demo)
+* Hosted workshop introducing differential abundance analysis using [BIRDMAn](https://github.com/gibsramen/BIRDMAn) - [Repo](https://github.com/gibsramen/BIRDMAn-demo)
 
 ### "Software Engineering on a Team" Workshop Co-Host<sup>†</sup>
 
