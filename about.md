@@ -115,6 +115,6 @@ This scholarship is awarded to incoming first-years to the Cockrell School of En
 
 ## Open Source Contributions
 
-* [BIRDMAn](https://github.com/gibsramen/parameterizing-songbird-demo) (Lead Developer)
+* [BIRDMAn](https://github.com/gibsramen/BIRDMAn) (Lead Developer)
 * [Qurro](https://github.com/biocore/qurro) (Developer)
 * [EMPress](https://github.com/biocore/empress) (Developer)
