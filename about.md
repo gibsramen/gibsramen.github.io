@@ -29,7 +29,7 @@ University of Texas at Austin (August 2014 - May 2018)
 
 ## Teaching
 
-### "Compositional microbiome analysis using QIIME2 and related tools" Instructor<sup>†</sup>
+### "Compositional microbiome analysis using QIIME2 and related tools" Workshop Instructor<sup>†</sup>
 
 Center for Microbiome Innovation/University of California, San Diego (March 2021)
 
@@ -113,7 +113,7 @@ This scholarship is awarded to incoming first-years to the Cockrell School of En
 
 ---
 
-## Open Source Contributions
+## Selected Software Contributions
 
 * [BIRDMAn](https://github.com/gibsramen/BIRDMAn) (Lead Developer)
 * [Qurro](https://github.com/biocore/qurro) (Developer)
