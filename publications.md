@@ -10,6 +10,14 @@ Here are the papers to which I've contributed.
 
 ## 2021
 
+### Non-alcoholic Steatohepatitis and HCC in a Hyperphagic Mouse Accelerated by Western Diet
+
+*Cellular and Molecular Gastroenterology and Hepatology* 2021
+
+doi: <https://doi.org/10.1016/j.jcmgh.2021.05.010>
+
+Souradipta Ganguly, German Aleman Muench, Linshan Shang, Sara Brin Rosenthal, **Gibraan Rahman**, Ruoyu Wang, Yanhan Wang, Hyeok Choon Kwon, Anthony M. Diomino, Tatiana Kisseleva, Pejman Soorosh, Mojgan Hosseini, Rob Knight, Bernd Schnabl, David A. Brenner, Debanjan Dhar
+
 ### EMPress enables tree-guided, interactive, and exploratory analyses of multi-omic datasets
 
 *mSystems* 2021
