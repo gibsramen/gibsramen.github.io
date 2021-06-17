@@ -32,7 +32,7 @@ See the documentation [here](https://docs.scipy.org/doc/scipy/reference/generate
 The marginal boxplots are fairly straightfoward - I used matplotlib's GridSpec functionality to create a 2 x 2 subplot with one big axis for the biplot and 2 smaller axes on the top and right of the large one.
 Overall, I think this type of plot is great for quickly visualizing the differences in groups on both axes.
 
-![better_biplot.png](../assets/imgs/better_biplot.png)
+![better_biplot](../assets/imgs/better_biplot.png)
 
 ```python
 from matplotlib.gridspec import GridSpec
